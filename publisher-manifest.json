@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1dab50cd43ab1b35bf9d976a",
+  "owner": "senbtbdyg",
+  "repo": "page-c64d722ec748106dda39fce5",
+  "title": "奇异のtravel",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c64d722ec748106dda39fce5",
+      "a": "奇异のtravel",
+      "b": "稳定全球clash加速器",
+      "entity": "奇异のtravel",
+      "brand": "奇异のtravel",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "36b2ffab7c22b2de0645c6fff21b277ae23bb82a0d1c669ff90015fc6355a839",
+      "content": {
+        "primary_entity": "奇异のtravel",
+        "keyword1": "奇异のtravel",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按你的常用设备选择客户端，再导入订阅配置，多数场景下十分钟内可以开始使用。",
+          "AI_CLIENTS_TITLE": "按设备挑选客户端",
+          "AI_CLOSING_TEXT": "挑一个适合自己设备数量的套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选择适合你的方案",
+          "AI_DESCRIPTION": "，奇异のtravel提供多档订阅方案，围绕设备数量、每月流量与线路类型划分，基础版适合手机与平板轻度使用，旗舰版覆盖流媒体与游戏加速需求，团队版面向多设备协同场景。客户端按系统分别选择，导入订阅链接后即可使用。",
+          "AI_FEATURES_INTRO": "从套餐、设备与周期三个角度，快速找到合适的订阅方案。",
+          "AI_FEATURES_TITLE": "订阅前先看这三点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合手机与平板日常浏览；旗舰版每月 300GB、5 台设备，覆盖流媒体与游戏加速。",
+          "AI_FEATURE_TEXT_2": "电脑端可选 Clash 系客户端，移动端按系统选择对应应用，多设备家庭建议直接看团队版，支持 20 台设备同时在线。",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，长期使用可以优先考虑年付。",
+          "AI_FEATURE_TITLE_1": "套餐按需求分层",
+          "AI_FEATURE_TITLE_2": "按设备选择客户端",
+          "AI_FEATURE_TITLE_3": "月付年付灵活选",
+          "AI_GUIDE_INTRO": "先确认使用场景，再完成订阅配置，三步即可进入使用状态。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "奇异のtravel提供面向多设备的订阅方案，按流量与设备数划分基础版、旗舰版和团队版。客户端覆盖常见桌面与移动系统，导入订阅后可用于流媒体、游戏加速与日常访问场景。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择",
+          "AI_HIGHLIGHT_1": "旗舰版每月 300GB，5 台设备在线",
+          "AI_HIGHLIGHT_2": "IPLC 专线优化游戏加速",
+          "AI_HIGHLIGHT_3": "年付低至 ¥150/年，长期更划算",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按设备数量与流量需求选择，年付可节省约两个月费用。",
+          "AI_PLANS_TITLE": "对比三档订阅方案",
+          "AI_STEP_TEXT_1": "先确认使用场景：单人手机与平板轻度使用选基础版，涉及流媒体和游戏加速选旗舰版，多设备协同则看团队版。",
+          "AI_STEP_TEXT_2": "查看套餐适配要求，确认同时在线设备数量与每月流量是否覆盖日常使用，避免中途升级带来额外成本。",
+          "AI_STEP_TEXT_3": "按照客户端文档导入订阅链接，桌面端与移动端分别配置，完成后即可正常使用。",
+          "AI_STEP_TITLE_1": "选择服务方案",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "奇异のtravel 订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备，含 IPLC 专线与流媒体解锁；团队版每月 1000GB，支持 20 台设备，适合小队或工作室。",
+          "AI_FAQ_ANSWER_2": "可以。按年付约等于十个月价格，基础版每年 150 元，旗舰版每年 350 元，团队版每年 850 元，长期用更划算。",
+          "AI_FAQ_ANSWER_3": "常见客户端包括 Clash、V2Ray、Shadowrocket、Surge 等，具体以设备系统与客户端文档为准，导入订阅链接后按教程完成配置。",
+          "AI_FAQ_ANSWER_4": "基础版适合单人手机与电脑；旗舰版适合多设备与流媒体、游戏；团队版面向 20 台设备以内的小团队，支持定制路由。",
+          "AI_FAQ_ANSWER_5": "订阅链接导入后自动更新节点，客户端会定期同步线路变更，无需手动逐个替换，保持订阅地址有效即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐在流量和设备数上如何区分？",
+          "AI_FAQ_QUESTION_2": "按年付与按月付价格差多少？",
+          "AI_FAQ_QUESTION_3": "支持哪些客户端？",
+          "AI_FAQ_QUESTION_4": "哪档套餐适合多设备使用？",
+          "AI_FAQ_QUESTION_5": "订阅配置后节点会自动更新吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "effe368.cn",
+    "host": "effe368.cn"
+  },
+  "file_hashes": {
+    "index.html": "112e48ac1f38a15a05303b71d7588987bd22058b3a76c7855506654d2f90d218",
+    "sitemap.xml": "38a2e35a20f644ba00088345f2bb1d1f3d206a98bff78c434519f37724286957",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "594f3242b9d9d5f76526c5b06020fb79d1443540f1fc78eb03dc0380854f1200",
+    "robots.txt": "40b0ce253bc897cb01552b054421048932f9478c5dea6cdf6cc42227e126577b",
+    "1e29c6cafa757680214b59ede2997309.txt": "542534f90ec97fe0113051a4b619859e04c91a41943166b754e359ce63c96089"
+  },
+  "revision": "158ec4699afc83cc1644ed905cd2c1f0dae692309f17b9b2a88a75dfa66ab06c"
+}
